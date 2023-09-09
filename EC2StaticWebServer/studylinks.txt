@@ -1,0 +1,4 @@
+https://github.com/AmanPathak-DevOps/Terraform-for-AWS/blob/master/.github/workflows/terraform.yml 
+
+
+implement the above github action code on the terraform example code 
